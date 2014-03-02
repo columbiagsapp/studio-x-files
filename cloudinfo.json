@@ -1,0 +1,26 @@
+{
+    "name": "Studio-X Files",
+    "url": "files.studio-x.org",
+    "version": "1.0",
+    "thumbnail": "screenshot.png",
+    "contributors": [
+        {
+            "name": "Troy Conrad Therrien",
+            "username": "troyth",
+            "role": "lead"
+        },
+        {
+            "name": "Kyong Kim",
+            "username": "kyongkim",
+            "role": "designer"
+        }
+    ],
+    "clients": [
+        {
+            "name": "Studio-X",
+            "url": "http://www.arch.columbia.edu/studio-x-global"
+        }
+    ],
+    "dependencies": [
+    ]
+}
